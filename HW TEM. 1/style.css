@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.background-container{
+	background-image: url("http://photos.lifeisphoto.ru/70/0/706451.jpg");
+	background-size: cover;
+	height: 100vh;   
+}
+
+.navbar{
+	border-radius: 0 !important;
+	margin-bottom: 0;
+	padding: 20px;
+}
+
+.navbar-custom{
+	background-color: rgba(0,0,0,0.5);	
+}
+
+.navbar-nav > li >a{
+	color: #fff;
+}
+
+.navbar-nav > li > a:hover{
+	border: 1px solid #4ACAFF;
+	background-color: rgba(0,0,0,0.5) !important;
+	color: #4ACAFF;
+}
+
+.navbar-toggle{
+	border: 1px solid #4ACAFF;
+}
+
+.navbar-toggle .icon-bar{
+	background-color: #4ACAFF;
+}
+
+.main-accent{
+	color: #4ACAFF;
+}
+
+
+.sub_head {
+	position: relative;
+	font-size: 20px;
+	color: white;
+	left: 5%;
+	top: 15%;
+}
+.sub_header {
+	background-color: #4BCAFF;
+	height: 50vh;
+}
+
+.row {
+	margin-top: 5% !important;
+}
+.margin {
+	margin-left: 12% !important;
+}
+.margin-top {
+	font-size: 10px;
+	margin-top: 0px !important;
+}
+.top-secret {
+	width: 15% !important;
+	color: white;
+}
+.text-portfolio {
+	display: inline-block;
+}
+.main-button {
+	display: inline-block;
+	color: black;
+	margin-left: 60%;
+	padding: 5px;
+}
+.main-button:hover {
+	color: #4BCAFF !important;
+	border: 1px solid #4BCAFF;
+	cursor: pointer;
+}
+.button-def {
+	display: inline-block;
+	font-size: 20px;
+}
+.button-def:hover {
+	color: grey;
+	cursor: pointer;
+}
+.button	{
+	margin-left: 1%;
+	color: black;
+	display: inline-block;
+	padding: 5px;
+}
+.button:hover {
+	color: #4BCAFF !important;
+	border: 1px solid #4BCAFF;
+	cursor: pointer;
+}
+
+
+
+
+.footer {
+	background-color: #505C64;
+	color: white;
+}
+.some-text {
+	font-size: 20px;
+	margin-left: 20%;
+	padding-top: 5%;
+}
+.more-text {
+	font-size: 15px;
+	margin-left: 20%;
+	text-align: justify;
+}
+.need-more-text {
+	font-size: 15px;
+	margin-left: 20%;
+	text-align: 20%;
+}
+iframe.video {
+	margin-left: 65%;
+	margin-top: -15%;
+}

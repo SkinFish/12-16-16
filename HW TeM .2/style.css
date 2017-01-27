@@ -1,0 +1,74 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: #1968A0;
+	padding: 5%;
+	margin-top: -2%;
+	color: white;
+}
+header h1 {
+	font-size: 60px;
+}
+header h6 {
+	font-size: 20px;
+}
+.brand-text {
+	width: 100px;
+	margin-left: 90%;
+	margin-top: -8%;
+}
+.brand-text .text {
+	font-size: 30px;
+}
+.brand-text .image {
+	font-size: 100px;
+	margin-top: -125%;
+	margin-left: -100%;
+	border: 5px solid white;
+	padding: 1px;
+	width: 75%;
+}
+
+.middle {
+	width: 100% !important;
+	height: 100% !important;
+}
+.middle h1 {
+	margin-left: 75%;
+}
+.middle h1#second {
+	margin-left: 75%;
+	margin-top: -1%;
+}
+
+
+
+.end {
+	background-color: #777C82;
+	color: white;
+	height: 100%;
+}
+.custom-p {
+	text-align: justify;
+}
+.container-one {
+	padding-top: 2%;
+	margin-left: 5%;
+	width: 25%;
+	display: inline-block;
+}
+.container-two {
+	margin-top: -5%;
+	margin-left: 5%;
+	width: 25%;
+	display: inline-block;
+}
+.container-three {
+	margin-top: -10%;
+	text-align: justify-all;
+	margin-left: 5%;
+	width: 25%;
+	display: inline-block;
+}
